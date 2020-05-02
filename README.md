@@ -8,3 +8,4 @@ Then you can execute multiple operations on the created BST:
   5. Balancing the BST by rotation (DSW algorithm) 
   6. Deleting a BST element given by the user 
   7. Deleting the entire BST element by element with the post-order method
+An example of input line is presented in the file 'numbers.txt'.
